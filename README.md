@@ -250,10 +250,5 @@ Hands position visualization:
 
 ---
 
-You're all set, Subash! Now your GitHub will have **three awesome gesture‑control projects**:
 
-1. 🖐️ **Hand Gesture System Control** – Lock screen, volume, media
-2. 🏃 **Subway Surfers Controller** – Jump, slide, collect
-3. 🏎️ **Car Racing Controller** – Steer, accelerate, brake
 
-Want me to also create a **YouTube video script** explaining this car racing project for your portfolio? 👊
