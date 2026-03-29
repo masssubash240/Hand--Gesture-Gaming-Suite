@@ -251,4 +251,39 @@ Hands position visualization:
 ---
 
 
+# 🥊 Fighting Game Hand Gesture Controller
 
+Control **Tekken, Street Fighter, Mortal Kombat** using only your hand gestures – 1,2,3,4 fingers + swipes!
+
+![Demo](demo.gif)
+
+## ✨ Features
+
+| Gesture | Action | Key |
+|---------|--------|-----|
+| ☝️ **1 Finger** | Light Punch | `J` |
+| ✌️ **2 Fingers** | Light Kick | `K` |
+| 🤟 **3 Fingers** | Heavy Punch | `U` |
+| 🖐️ **4 Fingers** | Heavy Kick | `I` |
+| ✊ **Fist** | Block | `O` |
+| ✋ **Open Palm (5)** | Super Attack | `P` |
+| 👈 **Swipe Left** | Move Left | `A` |
+| 👉 **Swipe Right** | Move Right | `D` |
+| 👆 **Swipe Up** | Jump | `W` |
+| 👇 **Swipe Down** | Crouch | `S` |
+
+## 🎮 Compatible Games
+
+- Tekken 7 / 8
+- Street Fighter V / VI
+- Mortal Kombat 11 / 1
+- Any fighting game that uses keyboard controls
+
+## 🛠️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/masssubash240/Fighting-Game-Hand-Controller.git
+   cd Fighting-Game-Hand-Controller
+
+   
